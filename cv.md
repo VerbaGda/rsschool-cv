@@ -44,6 +44,12 @@ Discord name: Veranika(@VerbaGda)
   * Corona Render
   * Adobe Photoshop
 
+## Languages
+  * Russian - native
+  * Belarusian - native
+  * Polish - C2
+  * English - A2
+
 ## Examples of my work
    * ### Visualisations
      * [Portfolio](https://www.portfoliobox.net/admin/#/projects)
