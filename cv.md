@@ -43,12 +43,15 @@ Discord name: Veranika(@VerbaGda)
   * 3Ds Max
   * Corona Render
   * Adobe Photoshop
+  * Sketch Up
+  * V-ray
 
 ## Languages
   * Russian - native
   * Belarusian - native
   * Polish - C2
   * English - A2
+
 
 ## Examples of my work
    * ### Visualisations
