@@ -1,1 +1,1 @@
-# [Veranika(@VerbaGda)](https://verbagda.github.io/rsschool-cv/)
+# [Veranika(@VerbaGda)](https://verbagda.github.io/rsschool-cv/cv)
